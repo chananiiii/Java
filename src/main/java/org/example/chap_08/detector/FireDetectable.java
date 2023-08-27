@@ -1,0 +1,9 @@
+package org.example.chap_08.detector;
+
+public class FireDetectable implements  Detectable{
+    @Override
+    public void detect() {
+        System.out.println("일반 성능으로 화재를 감지합니다.");
+
+    }
+}
