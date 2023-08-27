@@ -16,4 +16,7 @@ public class Camera {
         // 동영상 녹화
         System.out.println("동영상을 촬영합니다.");
     }
+
+    public void showMainFeature() {
+    }
 }

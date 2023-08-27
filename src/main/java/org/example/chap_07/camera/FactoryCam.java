@@ -21,4 +21,7 @@ public class FactoryCam {
         // 화재 감지
         System.out.println("화재를 감지합니다.");
     }
+
+    public void showMainFeature() {
+    }
 }

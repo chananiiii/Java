@@ -27,4 +27,7 @@ public class SpeedCam {
         // 번호 인식
         System.out.println("차량 번호를 인식합니다.");
     }
+
+    public void showMainFeature() {
+    }
 }
